@@ -1,3 +1,4 @@
 # FastOs
 here are the resources
-trinity
+bootloader name = trinity
+
